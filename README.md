@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 📫 How to reach me **komalpotdar52@gmail.com**
+<!-- - 📫 How to reach me **komalpotdar52@gmail.com**  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
