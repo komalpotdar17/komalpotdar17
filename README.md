@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🌱 I’m currently learning **React.Js, Next.Js**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/komalpotdar17](https://github.com/komalpotdar17)
 
