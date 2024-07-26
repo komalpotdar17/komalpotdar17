@@ -1,9 +1,10 @@
 <!-- ![MasterHeader](./github-header-image.png) -->
+<p align="center">
+<img alt="Coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Komal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalpotdar17&label=Profile%20views&color=0e75b6&style=flat" alt="komalpotdar17" /> </p> -->
-
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🌱 I’m currently learning **Next.Js**
 
