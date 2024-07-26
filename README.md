@@ -34,8 +34,8 @@
 <h3 align="left">Connect with me:</h3>
 <details open>
   <summary>☎️ How to reach me :</summary>
-  <table border="3" radius="20">
-    <td><a href="https://https://www.linkedin.com/in/komalpotdar17//" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
+  <table border="3" radius="10">
+    <td><a href="https://www.linkedin.com/in/komalpotdar17//" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
     <td><a href="https://www.instagram.com/_komalpotdar_/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" /> </a></td>
    <!-- <td><a href="https://twitter.com/Nilesh0203" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45px" /> </a></td> -->
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=komalpotdar52@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
