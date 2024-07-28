@@ -6,24 +6,6 @@
 <h1 align="center">Hi 👋, I'm Komal</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalpotdar17&label=Profile%20views&color=0e75b6&style=flat" alt="komalpotdar17" /> </p>
-
-[![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/komalpotdar17)
-
-[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DNilesh-0203%26type%3Djson)](https://github.com/komalpotdar17)
-
-[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/komalpotdar17/komalpotdar17?style=plastic&logo=history)](https://github.com/komalpotdar17/komalpotdar17/commits/master)
-
-[![Today's Profile Visitors](https://hits.sh/github.com/komalpotdar17/komalpotdar.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/Nilesh-0203)
-
-[![Profile Visitors](https://hits.sh/github.com/Nilesh-0203/Nilesh-0203.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/komalpotdar17)
-
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/nilesh_kudale)](https://leetcode.com/nilesh_kudale/)
-
-[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/komalpotdar17?style=social&logo=followers)](https://github.com/komalpotdar17?tab=followers)
-
-<!-- [![Profile Views](https://visitcount.itsvg.in/api?id=Nilesh-0203&label=Profile%20Views&icon=5&pretty=false)](https://github.com/Nilesh-0203) -->
-
 
 - 🌱 I’m currently learning **Next.Js**
 
@@ -36,7 +18,7 @@
   <summary>☎️ How to reach me :</summary>
   <table border="3" radius="10">
     <td><a href="https://www.linkedin.com/in/komalpotdar17/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
-    <td><a href=" " target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="45px" /> </a></td>
+    <td><a href="https://github.com/komalpotdar17/komalpotdar17" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="45px" /> </a></td>
     <td><a href="https://www.instagram.com/_komalpotdar_/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" /> </a></td>
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=komalpotdar52@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="45px"/> </a></td>
   </table>
