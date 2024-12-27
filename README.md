@@ -1,17 +1,14 @@
-![MasterHeader](./bi.png)
 <p align="center">
-<img alt="Coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
-</p>
 
 <h1 align="center">Hi 👋, I'm Komal</h1>
 
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/komalpotdar17](https://github.com/komalpotdar17)
 
-<!-- - 📫 How to reach me **komalpotdar52@gmail.com** -->
+- 📫 How to reach me **komalpotdar52@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <details open>
