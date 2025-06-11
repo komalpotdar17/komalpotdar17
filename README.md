@@ -89,10 +89,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalpotdar17&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="komalpotdar17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalpotdar17&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="komalpotdar17" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalpotdar17&show_icons=true&locale=en" alt="komalpotdar17" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalpotdar17&theme=tokyonight" alt="komalpotdar17" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalpotdar17&theme=midnight-purple" alt="komalpotdar17" /></p>
 
 
