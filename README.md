@@ -1,5 +1,5 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalpotdar17&label=Profile%20views&color=0e75b6&style=flat" alt="komalpotdar" /> </p> -->
-
+![Komal Potdar](https://raw.githubusercontent.com/komalpotdar17/komalpotdar17/main/Banner.jpg)
 <p align="center">
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Komal Potdar</h1>
@@ -88,10 +88,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalpotdar17&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="komalpotdar17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalpotdar17&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="komalpotdar17" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalpotdar17&show_icons=true&locale=en" alt="komalpotdar17" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalpotdar17&theme=ambient_gradient" alt="komalpotdar17" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalpotdar17&theme=tokyonight" alt="komalpotdar17" /></p>
 
 
