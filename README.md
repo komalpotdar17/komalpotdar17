@@ -21,7 +21,7 @@
 
 - 📍 From **India**
 
-## Connect with me 
+##  <img src="connect.gif" width="25" alt="connect gif"> Connect with me 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/komalpotdar17/)](https://www.linkedin.com/in/komalpotdar17/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/komalpotdar)](https://www.leetcode.com/komalpotdar)
