@@ -1,5 +1,5 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalpotdar17&label=Profile%20views&color=0e75b6&style=flat" alt="komalpotdar" /> </p> -->
-
+![Komal Potdar](https://raw.githubusercontent.com/komalpotdar17/komalpotdar17/main/Banner.jpg)
 <p align="center">
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Komal Potdar</h1>
