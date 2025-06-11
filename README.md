@@ -13,11 +13,11 @@
 
 - 🌎 I know **English, Hindi, and Marathi.**
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/komalpotdar17](https://github.com/komalpotdar17) -->
-
 - 📫 How to reach me **komalpotdar52@gmail.com**
 
 - 💬 Ask me about *Web development, Java, OOPS*
+
+- 👨‍💻 All of my projects are available at [https://github.com/komalpotdar17](https://github.com/komalpotdar17) 
 
 - 📍 From **India**
 
