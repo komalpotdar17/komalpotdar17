@@ -1,4 +1,5 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalpotdar17&label=Profile%20views&color=0e75b6&style=flat" alt="komalpotdar" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalpotdar17&label=Profile%20views&color=0e75b6&style=flat" alt="komalpotdar" /> </p>
+
 ![Komal Potdar](https://raw.githubusercontent.com/komalpotdar17/komalpotdar17/main/Banner.jpg)
 <p align="center">
 
