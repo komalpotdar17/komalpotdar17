@@ -4,23 +4,23 @@
 <p align="center">
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Komal Potdar</h1>
-<h3 align="center">A Passionate Full Stack/Web developer | Software Engineer Enthusiast</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=8A2BE2&center=true&vCenter=true&width=550&lines=A+Passionate+Full+Stack+Web+Developer;Software+Engineer+Enthusiast" alt="Typing SVG" />
+</h3>
 
-<br/>
+<img align="right" alt="coding" width="370"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+- 🌱 Currently learning: **Next.js**
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌍 Languages: **English**, **Hindi**, **Marathi**
 
-- 🌎 I know **English, Hindi, and Marathi.**
+- 📫 Reach me: [komalpotdar52@gmail.com](mailto:komalpotdar52@gmail.com)
 
-- 📫 How to reach me **komalpotdar52@gmail.com**
+- 💬 Ask me about: **Web Development**, **Java**, **OOPs**
 
-- 💬 Ask me about *Web development, Java, OOPS*
+- 🔗 Projects: [GitHub Portfolio »](https://github.com/komalpotdar17)
 
-- 👨‍💻 All of my projects are available at [https://github.com/komalpotdar17](https://github.com/komalpotdar17) 
-
-- 📍 From **India**
+- 📍 Location: **India**
 
 ##  <img src="connect.gif" width="25" alt="connect gif"> Connect with me 
 
