@@ -1,3 +1,5 @@
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalpotdar17&label=Profile%20views&color=0e75b6&style=flat" alt="komalpotdar" /> </p> -->
+
 <p align="center">
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Komal Potdar</h1>
@@ -71,9 +73,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
 </details>
-
-
-    
+   
 <details>
 <summary>Application and Tools:</summary> <br>
 
@@ -82,16 +82,12 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
     ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-  </br>
  
-
 </details>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalpotdar17&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="komalpotdar17" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalpotdar17&show_icons=true&locale=en" alt="komalpotdar17" /></p> -->
